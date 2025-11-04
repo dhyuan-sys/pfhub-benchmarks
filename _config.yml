@@ -1,7 +1,7 @@
 # Book settings
 # Learn more at https://jupyterbook.org/customize/config.html
 
-title: PFHub Benchmarks
+title: Phase Field Community Hub
 author: The CHiMaD Phase-field Community
 copyright: "2025"
 logo: pfhub-logo.jpg
@@ -30,3 +30,8 @@ repository:
 html:
   use_issues_button: true
   use_repository_button: true
+
+# Set up substitutions for the entire book
+parse:
+  myst_substitutions:
+    site.baseurl: https://pages.nist.gov/pfhub

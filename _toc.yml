@@ -4,6 +4,19 @@
 format: jb-book
 root: intro
 parts:
-  - caption: Default Pages
+  - caption: Benchmarks
     chapters:
-      - glob: default-pages/*
+      - glob: benchmarks/*
+  - caption: About
+    chapters:
+      - glob: about/*
+  - caption: External Links
+    chapters:
+      - url: https://pages.nist.gov/pf-recommended-practices
+        title: Recommended Practices
+      - url: https://github.com/usnistgov/pfhub/wiki
+        title: GitHub Wiki
+      - url: https://github.com/usnistgov/pfhub/graphs/contributors
+        title: PFHub Developers
+      - url: https://github.com/usnistgov/pfhub/blob/nist-pages/LICENSE.md
+        title: NIST License

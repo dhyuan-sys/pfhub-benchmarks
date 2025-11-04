@@ -1,11 +1,19 @@
-# Welcome to PFHub Benchmarks
+# PFHub: The Phase Field Community Hub
+*Integrating the phase field community*
 
-This is a small sample book to give you a feel for how book content is
-structured.
-It shows off a few of the major file types, as well as some sample content.
-It does not go in-depth into any particular topic - check out [the Jupyter Book documentation](https://jupyterbook.org) for more information.
+Welcome to the PFHub! If you're a [beginner](about:novice), you'll soon find resources and
+a crash course on the technique. If you're an [expert](about:expert), you'll find tools to
+verify and showcase the quality of your simulations. If you're anywhere
+[in-between](about:intermediate), you'll find a community built around a shared interest in
+phase-field and a commitment to opening up our research for the benefit of all.
+If you're just getting started implementing a Phase Field example, then the
+[recommended practices guide](https://pages.nist.gov/pf-recommended-practices/intro.html)
+is a great place to start.
 
-Check out the content pages bundled with this sample book to see more.
+## Benchmark Specifications
+
+*Benchmark problems vetted by the community to test, validate, and verify
+phase field codes*
 
 ```{tableofcontents}
 ```
